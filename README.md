@@ -80,7 +80,7 @@ This app follows **MVVM Architecture**:
 
 | Home                  | Transactions                  | Goals                  | Insights                  |
 | --------------------- | ----------------------------- | ---------------------- | ------------------------- |
-| ![](app/3.jpeg) | ![](app/4.jpeg) | ![](screens/goals.png) | ![](screens/insights.png) |
+| ![](app/3.jpeg) |          ![](app/4.jpeg) |                ![](app/8.jpeg) |     ![](screens/insights.png) |
 
 ---
 
