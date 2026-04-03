@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.financeapp.ui.home.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/nav_transactions"
+        android:name="com.financeapp.ui.transactions.TransactionListFragment"
+        android:label="Transactions" />
+
+    <fragment
+        android:id="@+id/nav_goals"
+        android:name="com.financeapp.ui.goals.GoalFragment"
+        android:label="Goals" />
+
+    <fragment
+        android:id="@+id/nav_insights"
+        android:name="com.financeapp.ui.insights.InsightsFragment"
+        android:label="Insights" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.financeapp.ui.settings.SettingsFragment"
+        android:label="Settings" />
+
+</navigation>

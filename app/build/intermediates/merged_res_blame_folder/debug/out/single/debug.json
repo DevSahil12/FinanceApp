@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.financeapp-main-54:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_fragment_transactions.xml.flat",
+        "source": "com.financeapp-main-54:/layout/fragment_transactions.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_fragment_insights.xml.flat",
+        "source": "com.financeapp-main-54:/layout/fragment_insights.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_sheet_handle.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_sheet_handle.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_fragment_settings.xml.flat",
+        "source": "com.financeapp-main-54:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_fragment_home.xml.flat",
+        "source": "com.financeapp-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_home.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_close.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_transactions.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_transactions.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_icon_button_selected.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_icon_button_selected.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/navigation_nav_graph.xml.flat",
+        "source": "com.financeapp-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_insights.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_insights.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_activity_splash.xml.flat",
+        "source": "com.financeapp-main-54:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_fragment_goal_list.xml.flat",
+        "source": "com.financeapp-main-54:/layout/fragment_goal_list.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_item_transaction.xml.flat",
+        "source": "com.financeapp-main-54:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_add.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_circle_red.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_circle_red.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.financeapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_bottom_sheet_add_transaction.xml.flat",
+        "source": "com.financeapp-main-54:/layout/bottom_sheet_add_transaction.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_fragment_goals.xml.flat",
+        "source": "com.financeapp-main-54:/layout/fragment_goals.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_badge_green.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_badge_green.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_settings.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_badge_red.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_badge_red.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_search.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_goals.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_goals.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_bottom_sheet_add_goal.xml.flat",
+        "source": "com.financeapp-main-54:/layout/bottom_sheet_add_goal.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_badge_amber.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_badge_amber.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_circle_green.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_circle_green.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.financeapp-main-54:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.financeapp-main-54:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_ic_calendar.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_icon_button.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_icon_button.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/xml_file_paths.xml.flat",
+        "source": "com.financeapp-main-54:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/drawable_bg_category_icon.xml.flat",
+        "source": "com.financeapp-main-54:/drawable/bg_category_icon.xml"
+    },
+    {
+        "merged": "com.financeapp-merged_res-52:/layout_item_goal.xml.flat",
+        "source": "com.financeapp-main-54:/layout/item_goal.xml"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="secondary">#00ACC1</color>
+    <color name="accent">#FF6F00</color>
+
+    <!-- Surface -->
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#EEF2F8</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#5C6B7A</color>
+    <color name="text_hint">#9EABB8</color>
+
+    <!-- Semantic -->
+    <color name="income_green">#2E7D32</color>
+    <color name="income_green_bg">#E8F5E9</color>
+    <color name="expense_red">#C62828</color>
+    <color name="expense_red_bg">#FFEBEE</color>
+    <color name="warning_amber">#E65100</color>
+    <color name="warning_amber_bg">#FFF3E0</color>
+
+    <!-- Divider / border -->
+    <color name="divider">#E8ECF0</color>
+    <color name="card_stroke">#E0E7EF</color>
+
+    <!-- Splash -->
+    <color name="splash_bg">#1E88E5</color>
+
+    <!-- Category colors (same in both modes — these are data colors, not UI chrome) -->
+    <color name="cat_food">#FF5722</color>
+    <color name="cat_transport">#FF9800</color>
+    <color name="cat_shopping">#E91E63</color>
+    <color name="cat_bills">#607D8B</color>
+    <color name="cat_entertainment">#9C27B0</color>
+    <color name="cat_health">#00BCD4</color>
+    <color name="cat_salary">#4CAF50</color>
+    <color name="cat_freelance">#2196F3</color>
+</resources>

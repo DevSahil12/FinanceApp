@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinanceApp</string>
+
+    <!-- Nav labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_insights">Insights</string>
+
+    <!-- Dashboard -->
+    <string name="total_balance">Total Balance</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="this_month">This Month</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="see_all">See All</string>
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="week_comparison">This Week vs Last Week</string>
+    <string name="no_transactions">No transactions yet.\nTap + to add your first one.</string>
+    <string name="savings_rate">Savings Rate</string>
+
+    <!-- Transactions -->
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="note">Note (optional)</string>
+    <string name="type_income">Income</string>
+    <string name="type_expense">Expense</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_hint">Search transactions…</string>
+    <string name="filter_all">All</string>
+    <string name="transaction_deleted">Transaction deleted</string>
+    <string name="undo">Undo</string>
+    <string name="enter_amount">Enter amount</string>
+
+    <!-- Goals -->
+    <string name="goals_title">Goals &amp; Challenges</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="savings_goal">Savings Goal</string>
+    <string name="budget_challenge">Budget Challenge</string>
+    <string name="goal_title_hint">e.g. Vacation Fund</string>
+    <string name="target_amount">Target Amount</string>
+    <string name="saved_so_far">Saved so far</string>
+    <string name="add_funds">+ Add Funds</string>
+    <string name="deadline_optional">Deadline (optional)</string>
+    <string name="streak">🔥 Streak</string>
+    <string name="months">months</string>
+    <string name="no_goals">No goals yet.\nTap + to create one.</string>
+    <string name="budget_limit">Monthly Budget Limit</string>
+    <string name="challenge_category">Category</string>
+    <string name="under_budget">Under budget!</string>
+    <string name="over_budget">Over budget!</string>
+
+    <!-- Insights -->
+    <string name="insights_title">Insights</string>
+    <string name="top_spending">Top Spending Categories</string>
+    <string name="monthly_trend">6-Month Trend</string>
+    <string name="week_vs_last">This Week vs Last Week</string>
+    <string name="income_vs_expense">Income vs Expense</string>
+    <string name="smart_insight">Smart Insight</string>
+    <string name="no_data">Not enough data yet</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="currency">Currency</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Budget Alerts</string>
+    <string name="about">About</string>
+    <string name="version">Version 1.0</string>
+
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to FinanceApp</string>
+    <string name="welcome_subtitle">Track spending, set goals,\nand understand your money.</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Validation -->
+    <string name="error_amount_empty">Please enter an amount</string>
+    <string name="error_amount_invalid">Amount must be greater than 0</string>
+    <string name="error_title_empty">Please enter a title</string>
+    <string name="error_target_empty">Please enter a target amount</string>
+</resources>

@@ -1,0 +1,6 @@
+com.financeapp.test.app-jetified-annotation-experimental-1.4.0-0 C:\Users\Sahil\.gradle\caches\transforms-4\659be6589d1ac07b12cfca47694c5999\transformed\jetified-annotation-experimental-1.4.0\res
+com.financeapp.test.app-jetified-core-1.5.0-1 C:\Users\Sahil\.gradle\caches\transforms-4\9aff895774248ec21f241778c9d20af3\transformed\jetified-core-1.5.0\res
+com.financeapp.test.app-androidTest-2 C:\Users\Sahil\Downloads\FinanceApp\FinanceApp\app\build\generated\res\resValues\androidTest\debug
+com.financeapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\Sahil\Downloads\FinanceApp\FinanceApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.financeapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\Sahil\Downloads\FinanceApp\FinanceApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.financeapp.test.app-merged_res-5 C:\Users\Sahil\Downloads\FinanceApp\FinanceApp\app\build\intermediates\merged_res\debugAndroidTest
